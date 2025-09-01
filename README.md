@@ -9,7 +9,7 @@
   <p id="res"></p>
 
   <script>
-    function calc() 
+    function calc() {
       let w = parseFloat(document.getElementById("w").value);
       let h = parseFloat(document.getElementById("h").value);
       let bmi = w / (h*h);
