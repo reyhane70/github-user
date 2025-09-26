@@ -10,7 +10,7 @@
 
   <script>
     function calc() {
-       w = parseFloat(document.getElementById("w").value);
+     let  w = parseFloat(document.getElementById("w").value);
       let h = parseFloat(document.getElementById("h").value);
       let bmi = w / (h*h);
       document.getElementById("res").innerText = "Your BMI: " + bmi.toFixed(2);
