@@ -4,7 +4,7 @@
 <head><title>BMI</title></head>
 <body>
   <input id="w" placeholder="Weight (kg)">
-  <input id="h" placeholder="Height (m)">
+  <input id="h" placeholder="Height ()">
   <button onclick="calc()">Calculate</button>
   <p id="res"></p>
 
