@@ -5,7 +5,7 @@
 <body>
   <input id="w" placeholder="Weight (kg)">
   <input id="h" placeholder="Height (m)">
-  <button onclick="calc()">Calculate</>
+  <button onclick="calc()">Calculate</button>
   <p id="res"></p>
 
   <script>
