@@ -13,7 +13,7 @@
      let  w = parseFloat(document.getElementById("w").value);
       let h = parseFloat(document.getElementById("h").value);
       let bmi = w / (h*h);
-      document.getElementById("res").innerText = "your : " + bmi.toFixed(2);
+      document.getElementById("res").innerText = "yourBMI : " + bmi.toFixed(2);
     }
   </script>
 </body>
