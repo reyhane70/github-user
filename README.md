@@ -15,6 +15,6 @@
       let bmi = w / (h*h);
       document.getElementById("res").innerText = "yourBMI : " + bmi.toFixed(2);
     }
-  </script>
+ 
 </body>
 </html> 
